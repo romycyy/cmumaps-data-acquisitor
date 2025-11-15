@@ -69,4 +69,4 @@ def transform_json_to_geojson(input_file, output_file):
 
 
 if __name__ == "__main__":
-    transform_ansys_to_geojson("ansys_1.json", "ansys_1.geojson")
+    transform_json_to_geojson("ansys_1.json", "ansys_1.geojson")
